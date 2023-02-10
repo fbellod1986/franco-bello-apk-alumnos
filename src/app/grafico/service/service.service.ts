@@ -16,12 +16,12 @@ export class ServiceService {
   public carreras: Carreras[] = [
     { 
       id: 0,
-      nombre: 'Ciencias',
+      nombre: 'Parbularia',
       alumnos: 65,
     },
     { 
       id: 1,
-      nombre: 'Matematicas',
+      nombre: 'Informática',
       alumnos: 24,
     },
     { 
@@ -31,7 +31,7 @@ export class ServiceService {
     },
     { 
       id: 3,
-      nombre: 'Estadísticas',
+      nombre: 'Arquitectura',
       alumnos: 34,
     },
   ];

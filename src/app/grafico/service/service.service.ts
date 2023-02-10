@@ -16,7 +16,7 @@ export class ServiceService {
   public carreras: Carreras[] = [
     { 
       id: 0,
-      nombre: 'Parbularia',
+      nombre: 'Párvulos',
       alumnos: 65,
     },
     { 
